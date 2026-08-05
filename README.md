@@ -1,88 +1,222 @@
 # 🚀 Machine Learning Engineering Journey
 
-Bem-vindo ao meu repositório de estudos em Engenharia de Machine Learning.
+Welcome!
 
-Este repositório documenta minha evolução ao longo da carreira de Engenharia de Machine Learning, reunindo exercícios, projetos e aplicações práticas desenvolvidos durante minha formação.
+This repository documents my learning journey in **Machine Learning Engineering** through hands-on projects, coding exercises, and practical applications.
+
+The content follows my progression from the fundamentals of programming and data analysis to advanced Machine Learning Engineering, MLOps, and AI systems.
+
+My goal is not only to learn the theory but also to build a complete portfolio that demonstrates my technical growth over time.
 
 ---
 
-## 🎯 Objetivo
+# 🎯 Objectives
 
-Construir uma base sólida em:
+Throughout this journey, I aim to develop practical experience in:
 
 - Python
 - SQL
-- Git e GitHub
-- Estatística
-- Ciência de Dados
+- Statistics
+- Data Analysis
 - Machine Learning
-- MLOps
-- Engenharia de Software
+- Software Engineering
+- APIs
+- Docker
+- Spark
 - Cloud Computing
+- MLOps
+- Deep Learning
+- AI Engineering
 
 ---
 
-## 📚 Estrutura
+# 🗺️ Learning Roadmap
 
-### 🟢 Base
+## ✅ Foundation
+
+Build a strong technical foundation with:
 
 - Python
 - Pandas
-- Estatística
 - SQL
-- Git e GitHub
-- Cloud
+- Git & GitHub
+- Statistics
+- Cloud Fundamentals
 
-### 🔵 Nível 1
+---
 
-- Regressão
-- Classificação
+## 🚧 Level 1 — Machine Learning Foundations
+
+Topics covered:
+
+- Regression
+- Classification
+- Model Evaluation
 - Flask
 - FastAPI
 - Streamlit
+- Software Architecture
 - Docker
-- Spark
-- AWS
+- Apache Spark
+- Big Data
+- AWS Fundamentals
 
-### 🟣 Nível 2
+---
 
-- MLOps
+## 🔜 Level 2 — Modern Architectures & MLOps
+
+Topics covered:
+
+- Design Patterns
+- Automated Testing
+- Code Quality
+- Data Lakes
+- Data Warehouses
+- Lakehouses
 - Databricks
-- Airflow
+- Apache Airflow
 - Kubernetes
 - CI/CD
-- NLP
-- Clusterização
+- Time Series
+- Clustering
+- Natural Language Processing (NLP)
 
-### 🔴 Nível 3
+---
 
+## 🔮 Level 3 — Production AI Systems
+
+Topics covered:
+
+- Advanced MLOps
+- Model Monitoring
+- Model Versioning
+- Feature Stores
+- Multi-Cloud (AWS, Azure & GCP)
 - Deep Learning
 - PyTorch
 - Computer Vision
 - LLMOps
-- Governança
+- Domain-Driven Design (DDD)
 - DataOps
-- Arquiteturas de ML
+- AI Governance
 
 ---
 
-## 🛠️ Tecnologias
+# 📂 Repository Structure
+
+```
+machine-learning-engineering-journey
+│
+├── 00-foundation
+├── 01-machine-learning-foundations
+├── 02-modern-architectures-and-mlops
+├── 03-production-ai-systems
+└── featured-projects
+```
+
+Each folder represents one stage of my learning journey and contains:
+
+- Notes
+- Coding exercises
+- Mini projects
+- Complete projects
+- Challenges
+- Documentation
+
+---
+
+# 🛠️ Technologies
+
+### Programming
 
 - Python
 - SQL
+
+### Data
+
 - Pandas
 - NumPy
+
+### Machine Learning
+
 - Scikit-Learn
+- PyTorch
+
+### Data Visualization
+
+- Matplotlib
+- Streamlit
+
+### APIs
+
 - Flask
 - FastAPI
-- Streamlit
+
+### Infrastructure
+
 - Docker
-- Spark
+- Apache Spark
+- Kubernetes
+- Databricks
+
+### Version Control
+
 - Git
 - GitHub
 
+### Cloud
+
+- AWS
+- Azure
+- Google Cloud Platform (GCP)
+
 ---
 
-## 📈 Status
+# 📈 Progress
 
-🟢 Em andamento
+| Stage | Status |
+|--------|--------|
+| Foundation | 🟢 In Progress |
+| Level 1 | ⚪ Not Started |
+| Level 2 | ⚪ Not Started |
+| Level 3 | ⚪ Not Started |
+
+This table will be updated as I complete each stage of the learning roadmap.
+
+---
+
+# 📌 Featured Projects
+
+As I complete larger and more complex applications, they will be moved to dedicated repositories and listed here.
+
+Examples of future projects:
+
+- Customer Churn Prediction
+- Sales Forecasting
+- Recommendation System
+- Image Classification
+- NLP Pipeline
+- Machine Learning API
+- End-to-End MLOps Pipeline
+
+---
+
+# 📚 Learning Philosophy
+
+I believe the best way to learn is by building.
+
+Instead of only completing courses, I document my progress through real code, practical projects, experiments, and continuous improvement.
+
+This repository serves as both my learning journal and my technical portfolio.
+
+---
+
+# 🤝 Connect with Me
+
+Feel free to explore the repository, provide feedback, or connect with me.
+
+GitHub: **@juliabrantes**
+
+---
+
+⭐ Thanks for visiting my Machine Learning Engineering Journey!
